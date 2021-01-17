@@ -1,0 +1,1 @@
+Anado el archivo_c.txtCreo una primera linea en el archivo_c
